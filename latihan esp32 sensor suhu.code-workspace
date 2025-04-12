@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../latihan esp32 sensor suhu"
+		},
+		{
+			"name": "simujlasi_relay",
+			"path": "../simujlasi_relay"
+		},
+		{
+			"name": "BAB 11 Simulasi Ultrasonic",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
